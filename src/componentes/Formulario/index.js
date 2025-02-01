@@ -11,6 +11,7 @@ const Formulario = () => {
                 <CampoTexto label="Imagem" placeholder="Digite o endereço da imagem" />
             </form>
         </section>
+        
     )
 }
 
